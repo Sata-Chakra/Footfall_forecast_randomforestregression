@@ -1,0 +1,382 @@
+[
+  {
+    "departure": 1630756800,
+    "arrival": 1630779000
+  },
+  {
+    "departure": 1630670400,
+    "arrival": 1630692600
+  },
+  {
+    "departure": 1630584000,
+    "arrival": 1630606200
+  },
+  {
+    "departure": 1630497600,
+    "arrival": 1630519800
+  },
+  {
+    "departure": 1630411200,
+    "arrival": 1630433400
+  },
+  {
+    "departure": 1630324800,
+    "arrival": 1630347000
+  },
+  {
+    "departure": 1630238400,
+    "arrival": 1630260600
+  },
+  {
+    "departure": 1630152000,
+    "arrival": 1630174200
+  },
+  {
+    "departure": 1630065600,
+    "arrival": 1630087800
+  },
+  {
+    "departure": 1629979200,
+    "arrival": 1630001400
+  },
+  {
+    "departure": 1629892800,
+    "arrival": 1629915000
+  },
+  {
+    "departure": 1629806400,
+    "arrival": 1629828600
+  },
+  {
+    "departure": 1629720000,
+    "arrival": 1629742200
+  },
+  {
+    "departure": 1629720000,
+    "arrival": 1629742200
+  },
+  {
+    "departure": 1629633600,
+    "arrival": 1629655800
+  },
+  {
+    "departure": 1629547200,
+    "arrival": 1629569400
+  },
+  {
+    "departure": 1629460800,
+    "arrival": 1629483000
+  },
+  {
+    "departure": 1629374400,
+    "arrival": 1629396600
+  },
+  {
+    "departure": 1629374400,
+    "arrival": 1629396600
+  },
+  {
+    "departure": 1629288000,
+    "arrival": 1629310200
+  },
+  {
+    "departure": 1629201600,
+    "arrival": 1629223800
+  },
+  {
+    "departure": 1629115200,
+    "arrival": 1629137400
+  },
+  {
+    "departure": 1629028800,
+    "arrival": 1629051000
+  },
+  {
+    "departure": 1628942400,
+    "arrival": 1628964600
+  },
+  {
+    "departure": 1628856000,
+    "arrival": 1628878200
+  },
+  {
+    "departure": 1628769600,
+    "arrival": 1628791800
+  },
+  {
+    "departure": 1628683200,
+    "arrival": 1628705400
+  },
+  {
+    "departure": 1628596800,
+    "arrival": 1628619000
+  },
+  {
+    "departure": 1628510400,
+    "arrival": 1628532600
+  },
+  {
+    "departure": 1628424000,
+    "arrival": 1628446200
+  },
+  {
+    "departure": 1628424000,
+    "arrival": 1628446200
+  },
+  {
+    "departure": 1628337600,
+    "arrival": 1628359800
+  },
+  {
+    "departure": 1628251200,
+    "arrival": 1628273400
+  },
+  {
+    "departure": 1628251200,
+    "arrival": 1628273400
+  },
+  {
+    "departure": 1628164800,
+    "arrival": 1628187000
+  },
+  {
+    "departure": 1628078400,
+    "arrival": 1628100600
+  },
+  {
+    "departure": 1627992000,
+    "arrival": 1628014200
+  },
+  {
+    "departure": 1627905600,
+    "arrival": 1627927800
+  },
+  {
+    "departure": 1627905600,
+    "arrival": 1627927800
+  },
+  {
+    "departure": 1627819200,
+    "arrival": 1627841400
+  },
+  {
+    "departure": 1627732800,
+    "arrival": 1627755000
+  },
+  {
+    "departure": 1627646400,
+    "arrival": 1627668600
+  },
+  {
+    "departure": 1627560000,
+    "arrival": 1627582200
+  },
+  {
+    "departure": 1627473600,
+    "arrival": 1627495800
+  },
+  {
+    "departure": 1627387200,
+    "arrival": 1627409400
+  },
+  {
+    "departure": 1627387200,
+    "arrival": 1627409400
+  },
+  {
+    "departure": 1627300800,
+    "arrival": 1627323000
+  },
+  {
+    "departure": 1627214400,
+    "arrival": 1627236600
+  },
+  {
+    "departure": 1627128000,
+    "arrival": 1627150200
+  },
+  {
+    "departure": 1627041600,
+    "arrival": 1627063800
+  },
+  {
+    "departure": 1626955200,
+    "arrival": 1626977400
+  },
+  {
+    "departure": 1626868800,
+    "arrival": 1626891000
+  },
+  {
+    "departure": 1626696000,
+    "arrival": 1626718200
+  },
+  {
+    "departure": 1626609600,
+    "arrival": 1626631800
+  },
+  {
+    "departure": 1626523200,
+    "arrival": 1626545400
+  },
+  {
+    "departure": 1626523200,
+    "arrival": 1626545400
+  },
+  {
+    "departure": 1626436800,
+    "arrival": 1626459000
+  },
+  {
+    "departure": 1626350400,
+    "arrival": 1626372600
+  },
+  {
+    "departure": 1626350400,
+    "arrival": 1626372600
+  },
+  {
+    "departure": 1626264000,
+    "arrival": 1626286200
+  },
+  {
+    "departure": 1626264000,
+    "arrival": 1626286200
+  },
+  {
+    "departure": 1626177600,
+    "arrival": 1626199800
+  },
+  {
+    "departure": 1626091200,
+    "arrival": 1626113400
+  },
+  {
+    "departure": 1626004800,
+    "arrival": 1626027000
+  },
+  {
+    "departure": 1625918400,
+    "arrival": 1625940600
+  },
+  {
+    "departure": 1625832000,
+    "arrival": 1625854200
+  },
+  {
+    "departure": 1625745600,
+    "arrival": 1625767800
+  },
+  {
+    "departure": 1625659200,
+    "arrival": 1625681400
+  },
+  {
+    "departure": 1625572800,
+    "arrival": 1625595000
+  },
+  {
+    "departure": 1625486400,
+    "arrival": 1625508600
+  },
+  {
+    "departure": 1625400000,
+    "arrival": 1625422200
+  },
+  {
+    "departure": 1625313600,
+    "arrival": 1625335800
+  },
+  {
+    "departure": 1625227200,
+    "arrival": 1625249400
+  },
+  {
+    "departure": 1625140800,
+    "arrival": 1625163000
+  },
+  {
+    "departure": 1625054400,
+    "arrival": 1625076600
+  },
+  {
+    "departure": 1624968000,
+    "arrival": 1624990200
+  },
+  {
+    "departure": 1624881600,
+    "arrival": 1624903800
+  },
+  {
+    "departure": 1624795200,
+    "arrival": 1624817400
+  },
+  {
+    "departure": 1624708800,
+    "arrival": 1624731000
+  },
+  {
+    "departure": 1624622400,
+    "arrival": 1624644600
+  },
+  {
+    "departure": 1624536000,
+    "arrival": 1624558200
+  },
+  {
+    "departure": 1624449600,
+    "arrival": 1624471800
+  },
+  {
+    "departure": 1624363200,
+    "arrival": 1624385400
+  },
+  {
+    "departure": 1624276800,
+    "arrival": 1624299000
+  },
+  {
+    "departure": 1624190400,
+    "arrival": 1624212600
+  },
+  {
+    "departure": 1624190400,
+    "arrival": 1624212600
+  },
+  {
+    "departure": 1624104000,
+    "arrival": 1624126200
+  },
+  {
+    "departure": 1624017600,
+    "arrival": 1624039800
+  },
+  {
+    "departure": 1623931200,
+    "arrival": 1623953400
+  },
+  {
+    "departure": 1623844800,
+    "arrival": 1623867000
+  },
+  {
+    "departure": 1623758400,
+    "arrival": 1623780600
+  },
+  {
+    "departure": 1623758400,
+    "arrival": 1623780600
+  },
+  {
+    "departure": 1623672000,
+    "arrival": 1623694200
+  },
+  {
+    "departure": 1623585600,
+    "arrival": 1623607800
+  },
+  {
+    "departure": 1623499200,
+    "arrival": 1623521400
+  }
+]
