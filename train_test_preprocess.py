@@ -71,7 +71,7 @@ rmse_random_forest = sqrt(mean_squared_error(randomforest_regression_pred , y_te
 rmse_linear_regression = sqrt(mean_squared_error(linear_regression_pred , y_test))
 
 print('Mean squared error from random forest',rmse_random_forest)
-print('Mean squared error from linear forest',rmse_linear_regression)
+print('Mean squared error from linear regression',rmse_linear_regression)
 
 ############################################ Forecasting on the Future ######################################
 
@@ -99,8 +99,8 @@ for i in range(30):
 print('Prediction list for 30 days from june 11 by random Forest model : \n' , rf_pred_list)
 print('\nPrediction list for 30 days from june 11 by linear regression model : \n' , lr_pred_list)
 
-predicted_dataset_rf_df = pd.read_csv('Prediction_result_random_forest.tsv', sep='\t', index_col ='Future Dates for the Model', parse_dates =True)
-predicted_dataset_lr_df = pd.read_csv('Prediction_result_linear_regression.tsv', sep='\t', index_col ='Future Dates for the Model', parse_dates =True)
+predicted_dataset_rf_df = pd.read_csv('outputs/Prediction_result_random_forest.tsv', sep='\t', index_col ='Future Dates for the Model', parse_dates =True)
+predicted_dataset_lr_df = pd.read_csv('outputs/Prediction_result_linear_regression.tsv', sep='\t', index_col ='Future Dates for the Model', parse_dates =True)
 
 predicted_dataset_rf_df.to_csv('rf_output.csv')
 predicted_dataset_lr_df.to_csv('lr_output.csv')
