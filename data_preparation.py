@@ -78,7 +78,7 @@ def clean():
     #
     # print('Confuson matrix for the model eval : \n' , metrics.confusion_matrix(y_test, predictions))
     # print('Performance SCORE [LinearRegression] : ',LR.score(X_test,y_test))
-    return Yearly_final_data
+    #return Yearly_final_data
 
 
 

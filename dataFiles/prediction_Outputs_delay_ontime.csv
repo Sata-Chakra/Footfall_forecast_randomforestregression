@@ -1,0 +1,20 @@
+Date/Year,Total Flights,Flights_cancelled,delay_prediction_lr_output,delay_prediction_lr_output ( % ),delay_prediction_rf_output  ,delay_prediction_rf_output  ( % )
+01-07-2022,22500,300,5062,22,4252,19
+02-07-2022,22000,350,5103,23,4638,21
+03-07-2022,21800,200,4706,22,4051,19
+04-07-2022,18500,250,3503,19,3854,21
+05-07-2022,20000,325,4147,21,4220,21
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Date/Year,Total Flights,Flights_cancelled,ontime_prediction_lr_output, ontime_prediction_lr_output ( % ),ontime_prediction_rf_output ,ontime_prediction_rf_output  ( % )
+01-07-2022,22500,300,17127,76,17185,76
+02-07-2022,22000,350,16579,75,17326,79
+03-07-2022,21800,200,16992,78,17760,81
+04-07-2022,18500,250,14435,78,14990,81
+05-07-2022,20000,325,15264,76,14949,75
+,,,,,,
+,,,,,,
+,,,,"Note : use extrapolation from last 9 years data - first predict the total flights and cancelled flights , and then use that for prediction of delays and ontime ",,

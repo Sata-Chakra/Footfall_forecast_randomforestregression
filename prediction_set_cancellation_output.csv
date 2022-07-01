@@ -1,0 +1,6 @@
+Dates,ontime_forecast_data,delay_forecast_data,Day of Week,Day of Year,cancellation_prediction_lr_output,cancellation_prediction_rf_output
+01-07-2022,17188,4280,4,182,298,392.455
+02-07-2022,17034,5030,5,183,384,398.84
+03-07-2022,16992,4253,6,184,289,471.345
+04-07-2022,14748,3393,0,185,237,275.37
+05-07-2022,15774,4094,1,186,301,231.77
